@@ -1,4 +1,8 @@
 fsafsfsafsafsadafsav
 fsfsfsfsavasfsv
 unsaved change
+<<<<<<< HEAD
 now changes to be pushed on github
+=======
+make changes in bug fix branch
+>>>>>>> bugfix
